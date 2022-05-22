@@ -15,7 +15,7 @@ namespace TypeConversion
             catch (Exception)
             {
                 Console.WriteLine("The number cant be converted to a byte");
-                Console.WriteLine("this is a test to see changes in GIT");
+                Console.WriteLine("this is a test to see changes in GIT V2");
             }
 
 
